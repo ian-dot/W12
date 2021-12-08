@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Command-line application to manage an employee's database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ian Elizalde",
+  "license": "ISC",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql2": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-dot/W12.git"
+  },
+  "keywords": [
+    "mysql",
+    "inquirer"
+  ],
+  "bugs": {
+    "url": "https://github.com/ian-dot/W12/issues"
+  },
+  "homepage": "https://github.com/ian-dot/W12#readme"
+}
